@@ -1,0 +1,31 @@
+
+
+October 14th, 2013
+
+Bagging:
+	- Purpose is to reduce variance
+
+Boosting:
+	- Purpose is to increase accuracy
+	- Adds a weighted column (field instance)
+	- Weight starts as '1/n' -- everyone has same probablility of being drawn
+	- Develop a model and run it against the test set
+	- Adjust weights (up weight for missed instances)
+
+Lab #2
+	- Stopping Criteria:
+		+ E = 0, theoritical, but not always possible (sum of error across all your examples)
+		+ E < Threshold, hard to know what the threshold should be
+		+ Change in Error < Threshold
+		+ Number of Iterations < N, (hard stop on number of iterations, execute N times and stop)
+	- Possibilty of normalizing data to be between 0 and 1
+	
+	- Equations:
+		+ Change in Weight(outer) * C (learning rate) * input value [
+		+ Change in Weight(inner) * C (learning rate) * input value
+		
+
+	
+	
+
+	

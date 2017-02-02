@@ -1,0 +1,17 @@
+
+
+
+
+
+- 10 Conceptional Questions
+    - Ex. Knowing what you know about ID3 how can you use it to compute feature selection.
+
+- No Calculator Needed
+
+- Decision Trees, Naive Baises, Visualization, Data Understanding, Data Manipulation, Measures
+
+- Quote from someone, react to it
+
+
+
+
