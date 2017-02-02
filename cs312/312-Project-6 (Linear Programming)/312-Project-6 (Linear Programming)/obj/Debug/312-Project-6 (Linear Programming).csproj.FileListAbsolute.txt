@@ -1,0 +1,9 @@
+C:\Users\JRASM91\Documents\Visual Studio 2012\Projects\312-Project-6 (Linear Programming)\312-Project-6 (Linear Programming)\bin\Debug\312-Project-6 (Linear Programming).exe.config
+C:\Users\JRASM91\Documents\Visual Studio 2012\Projects\312-Project-6 (Linear Programming)\312-Project-6 (Linear Programming)\obj\Debug\312-Project-6 (Linear Programming).csprojResolveAssemblyReference.cache
+C:\Users\JRASM91\Documents\Visual Studio 2012\Projects\312-Project-6 (Linear Programming)\312-Project-6 (Linear Programming)\obj\Debug\_312_Project_6__Linear_Programming_.Simplex.resources
+C:\Users\JRASM91\Documents\Visual Studio 2012\Projects\312-Project-6 (Linear Programming)\312-Project-6 (Linear Programming)\obj\Debug\_312_Project_6__Linear_Programming_.Properties.Resources.resources
+C:\Users\JRASM91\Documents\Visual Studio 2012\Projects\312-Project-6 (Linear Programming)\312-Project-6 (Linear Programming)\obj\Debug\312-Project-6 (Linear Programming).csproj.GenerateResource.Cache
+C:\Users\JRASM91\Documents\Visual Studio 2012\Projects\312-Project-6 (Linear Programming)\312-Project-6 (Linear Programming)\bin\Debug\312-Project-6 (Linear Programming).exe
+C:\Users\JRASM91\Documents\Visual Studio 2012\Projects\312-Project-6 (Linear Programming)\312-Project-6 (Linear Programming)\bin\Debug\312-Project-6 (Linear Programming).pdb
+C:\Users\JRASM91\Documents\Visual Studio 2012\Projects\312-Project-6 (Linear Programming)\312-Project-6 (Linear Programming)\obj\Debug\312-Project-6 (Linear Programming).exe
+C:\Users\JRASM91\Documents\Visual Studio 2012\Projects\312-Project-6 (Linear Programming)\312-Project-6 (Linear Programming)\obj\Debug\312-Project-6 (Linear Programming).pdb

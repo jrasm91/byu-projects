@@ -1,0 +1,10 @@
+C:\Users\ringger\Documents\BYU\Winter2010-312\Projects\Project4-IntelligentScissors\IntelligentScissors\visualIntelligentScissors\obj\Debug\VisualIntelligentScissors.exe
+C:\Users\ringger\Documents\BYU\Winter2010-312\Projects\Project4-IntelligentScissors\IntelligentScissors\visualIntelligentScissors\obj\Debug\VisualIntelligentScissors.pdb
+C:\Users\JRASM91\Documents\Visual Studio 2012\Projects\312-Project-4 (Intelligent Scissors)\visualIntelligentScissors\obj\Debug\VisualIntelligentScissors.exe
+C:\Users\JRASM91\Documents\Visual Studio 2012\Projects\312-Project-4 (Intelligent Scissors)\visualIntelligentScissors\obj\Debug\VisualIntelligentScissors.pdb
+C:\Users\JRASM91\Documents\Visual Studio 2012\Projects\312-Project-4 (Intelligent Scissors)\visualIntelligentScissors\bin\Debug\VisualIntelligentScissors.exe
+C:\Users\JRASM91\Documents\Visual Studio 2012\Projects\312-Project-4 (Intelligent Scissors)\visualIntelligentScissors\bin\Debug\VisualIntelligentScissors.pdb
+C:\Users\JRASM91\Documents\Visual Studio 2012\Projects\312-Project-4 (Intelligent Scissors)\visualIntelligentScissors\obj\Debug\VisualIntelligentScissors.csprojResolveAssemblyReference.cache
+C:\Users\JRASM91\Documents\Visual Studio 2012\Projects\312-Project-4 (Intelligent Scissors)\visualIntelligentScissors\obj\Debug\VisualIntelligentScissors.frmMain.resources
+C:\Users\JRASM91\Documents\Visual Studio 2012\Projects\312-Project-4 (Intelligent Scissors)\visualIntelligentScissors\obj\Debug\VisualIntelligentScissors.Properties.Resources.resources
+C:\Users\JRASM91\Documents\Visual Studio 2012\Projects\312-Project-4 (Intelligent Scissors)\visualIntelligentScissors\obj\Debug\VisualIntelligentScissors.csproj.GenerateResource.Cache
