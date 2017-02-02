@@ -1,0 +1,7 @@
+hyper.sqlite
+*.db
+*.sqlite
+*.db-journal
+abcdefghijklmnopqrstuvwxyz
+a
+
