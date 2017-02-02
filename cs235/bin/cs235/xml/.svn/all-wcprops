@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/cs235/jr2of6/!svn/ver/60/lab5
+END
+DocumentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/cs235/jr2of6/!svn/ver/60/lab5/DocumentImpl.java
+END
+TextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/cs235/jr2of6/!svn/ver/59/lab5/TextImpl.java
+END
+NodeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/cs235/jr2of6/!svn/ver/59/lab5/NodeImpl.java
+END
+Tokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/cs235/jr2of6/!svn/ver/56/lab5/Tokenizer.java
+END
+ElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/cs235/jr2of6/!svn/ver/59/lab5/ElementImpl.java
+END
+ParserImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/cs235/jr2of6/!svn/ver/59/lab5/ParserImpl.java
+END
+Document.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/cs235/jr2of6/!svn/ver/49/lab5/Document.java
+END
+XMLException.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/cs235/jr2of6/!svn/ver/48/lab5/XMLException.java
+END
+Text.java
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/cs235/jr2of6/!svn/ver/57/lab5/Text.java
+END
+ParserFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/cs235/jr2of6/!svn/ver/58/lab5/ParserFactory.java
+END
+TestNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/cs235/jr2of6/!svn/ver/53/lab5/TestNode.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/cs235/jr2of6/!svn/ver/51/lab5/Node.java
+END
+Element.java
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/cs235/jr2of6/!svn/ver/50/lab5/Element.java
+END
+TestDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/cs235/jr2of6/!svn/ver/54/lab5/TestDriver.java
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/cs235/jr2of6/!svn/ver/52/lab5/Parser.java
+END
