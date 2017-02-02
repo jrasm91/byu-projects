@@ -1,0 +1,11 @@
+Schemes:
+  perm(A,B,C,D,E,F)
+Facts:
+  perm('a','b','c','d','e','f').
+
+Rules:
+  perm(b,c,d,e,f,a) :- perm(a,b,c,d,e,f).
+  perm(b,a,c,d,e,f) :- perm(a,b,c,d,e,f).
+
+Queries:
+  perm(a,b,c,d,e,f)?

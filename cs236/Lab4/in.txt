@@ -1,0 +1,22 @@
+Schemes:
+  SK(A,B)
+  ABAB(A, B, C, D)
+  SNAP(A)
+Facts:
+  SK('a','c').
+  SK('b','c').
+  SK('b','b').
+  SK('b','c').
+  ABAB('a', 'a', 'b', 'b').
+  ABAB('b', 'a', 'b', 'a').
+  ABAB('a', 'a', 'c', 'c').
+  ABAB('a', 'b', 'b', 'a').
+Rules:
+  DoNothing(Z) :- Stuff(Z).
+Queries:
+  SK(A,'c')?
+  SK('b','c')?
+  SK(X,X)?
+  SK(A,B)?
+  ABAB(C, B, B, C)? 
+  SNAP(A)?

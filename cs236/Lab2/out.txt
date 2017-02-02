@@ -1,0 +1,22 @@
+Success!
+Schemes(2):
+  snap(S,N,A,P)
+  NameHasID(N,S)
+Facts(2):
+  snap('12345','C. Brown','12 Apple','555-1234').
+  snap('33333','Snoopy','12 Apple','555-1234').
+Rules(1):
+  NameHasID(N,S) :- snap(S,N,A,P).
+Queries(4):
+  NameHasID('Snoopy',Who)?
+  Yoyoyo('Snoopy',Who)?
+  Whatsupman('Snoopy',Who)?
+  Hey('yo',ho)?
+Domain(7):
+  '12 Apple'
+  '12345'
+  '33333'
+  '555-1234'
+  'C. Brown'
+  'Snoopy'
+  'yo'

@@ -1,0 +1,43 @@
+Dependency Graph
+  Q1: R6
+  Q2: R4
+  R1:
+  R2: R1 R2 R3
+  R3: R6
+  R4: R4
+  R5:
+  R6: R1 R2 R3 R5
+
+SmartAncestor(x,'me')?
+
+  Postorder Numbers
+    Q1: 6
+    R1: 1
+    R2: 3
+    R3: 2
+    R5: 4
+    R6: 5
+
+  Rule Evaluation Order
+    R1
+    R3
+    R2
+    R5
+    R6
+
+  Backward Edges
+    R2: R2
+    R3: R6
+
+Sibling('me','Rachel')?
+
+  Postorder Numbers
+    Q2: 2
+    R4: 1
+
+  Rule Evaluation Order
+    R4
+
+  Backward Edges
+    R4: R4
+
